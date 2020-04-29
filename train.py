@@ -15,7 +15,7 @@ mcnn = MCNN(dataset)
 mcnn.train(EPOCH)
 
 
-
+#checking for testing   
 
 
 
